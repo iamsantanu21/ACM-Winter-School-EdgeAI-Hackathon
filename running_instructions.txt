@@ -1,0 +1,32 @@
+To move to a real-world demo with a Hotspot, you need to ensure all devices (Laptop, Phone, Arduino) are on the same Wi-Fi network and know each other's IP addresses.
+
+
+Receiver (Laptop):
+
+IP: Needs to listen on 0.0.0.0 (which means "all Wi-Fi interfaces"). Your code already does this.
+Port: Listens on 5007.
+Action: I will add a helper to receiver.py to print your Laptop's IP address when it starts. You will need this IP for the Arduino code.
+Important: Ensure your Windows Firewall allows Python to accept public/private connections, otherwise the Arduino packets will be blocked.
+
+
+Sender (Arduino Nicla):
+
+You must update your Arduino C++ sketch.
+Send packets to Laptop IP on port 5007.
+Send packets to Phone IP on port 5005.
+
+
+Mock Sender (Testing Tool):
+
+I will update mock_sender.py so you can use it to test the connection to the Phone App before the Arduino is ready. You will just need to enter your Phone's IP in the script.
+
+
+Summary of Steps for Demo:
+
+Connect all devices to the Hotspot.
+Run receiver.py: Look at the terminal output for *** DEMO SETUP: Configure Arduino to send to Laptop IP: 192.168.x.x ***.
+Find Phone IP: Go to Settings > About Phone > Status to find the Phone's IP (e.g., 192.168.x.y).
+Configure Arduino:
+udp.beginPacket("192.168.x.x", 5007); (Laptop)
+udp.beginPacket("192.168.x.y", 5005); (Phone)
+Test: If the Arduino isn't ready, edit mock_sender.py with the Phone's IP and run it to test the app and dashboard simultaneously.
