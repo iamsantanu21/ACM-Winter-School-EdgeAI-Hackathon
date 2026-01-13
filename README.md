@@ -179,10 +179,35 @@ The main challenge was not building individual components, but making them work 
 
 ---
 
+## 📚 Hackathon Resources
+
+- 📑 **Project Presentation (IISc Hackathon)**  
+  https://docs.google.com/presentation/d/13hz6AAkCS6R9HN_AuOMq6TGLBEf-kmgD/edit?usp=sharing&ouid=115210685101328742222&rtpof=true&sd=true
+
+- 📂 **Additional Media & Resources**  
+  https://drive.google.com/drive/u/0/folders/1vJ3rpd_AxeCZqh6uSvXPuzTzQbBVhyR_
+
+---
+---
+
+## 👥 Team
+
+<p align="center">
+  <img src="assets/screenshots/hackathon_group.jpg" width="70%" alt="Third Eye Hackathon Team">
+</p>
+
+This project was developed collaboratively during the IISc Hackathon (Winter School on Edge AI).
+
+- **Santanu Mondal** – [LinkedIn](https://www.linkedin.com/in/iamsantanu21/)
+- **Aritra Dutta** – [LinkedIn](https://www.linkedin.com/in/aritra-dutta-bb988a190/)
+- **Avishka Jindal** – [LinkedIn](https://www.linkedin.com/in/avishkajindal05/)
+- **Arya Sahu** – [LinkedIn](https://www.linkedin.com/in/arya-sahu-237701242/)
+- **Shyamashri Das** – [LinkedIn](https://www.linkedin.com/in/shyamashri-das-5a29b3188/)
+
+
+---
+
 ## 📄 License
 
 MIT License
 
-Get the content at: https://drive.google.com/drive/u/0/folders/1vJ3rpd_AxeCZqh6uSvXPuzTzQbBVhyR_
-
-Get the presentation of the hackathon at: https://docs.google.com/presentation/d/13hz6AAkCS6R9HN_AuOMq6TGLBEf-kmgD/edit?usp=sharing&ouid=115210685101328742222&rtpof=true&sd=true
