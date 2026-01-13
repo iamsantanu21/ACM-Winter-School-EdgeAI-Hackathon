@@ -188,9 +188,8 @@ The main challenge was not building individual components, but making them work 
   https://drive.google.com/drive/u/0/folders/1vJ3rpd_AxeCZqh6uSvXPuzTzQbBVhyR_
 
 ---
----
 
-## 👥 Team
+## 👥 Team Members
 
 <p align="center">
   <img src="assets/screenshots/hackathon_group.jpg" width="100%" alt="Third Eye Hackathon Team">
@@ -206,8 +205,8 @@ By - [Santanu Mondal](https://www.linkedin.com/in/iamsantanu21/),
 
 
 ---
-
 ## 📄 License
 
-MIT License
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
 
