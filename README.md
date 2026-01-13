@@ -4,7 +4,7 @@ A fully on-device assistive navigation system that fuses physics-based sensing w
 
 ---
 <p align="center">
-  <img src="assets/screenshots/title.png" width="85%" alt="System Architecture">
+  <img src="assets/screenshots/title.png" width="100%" alt="System Architecture">
 </p>
 
 ## 📌 Overview
