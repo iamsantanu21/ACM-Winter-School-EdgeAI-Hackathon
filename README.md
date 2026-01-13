@@ -20,7 +20,7 @@ The system continuously senses the environment, detects obstacles and falls, and
 ## 🎥 Live Demo
 
 <p align="center">
-  <a href="https://YOUR_DEMO_VIDEO_LINK">
+  <a href="https://github.com/iamsantanu21/ACM-Winter-School-EdgeAI-Hackathon/blob/master/assets/demo-video/demo%20video.mp4">
     <img src="assets/demo-video/thumbnail.png" alt="Third Eye Demo Video" width="100%">
   </a>
 </p>
