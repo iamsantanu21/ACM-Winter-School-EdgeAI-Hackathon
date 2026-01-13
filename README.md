@@ -25,14 +25,14 @@ The system continuously senses the environment, detects obstacles and falls, and
   </a>
 </p>
 
-▶️ Click the image to watch the real-time demo of the wearable assistive system in action. -->
+▶️ Click the image to watch the real-time demo of the wearable assistive system in action.
 <p align="center">
   <a href="https://youtu.be/Ljr1aza-Wbo">
     <img src="assets/demo-video/thumbnail.png" width="85%">
   </a>
 </p>
 
-▶️ Click to watch the demo
+▶️ Click to watch the demo -->
 
 ---
 
