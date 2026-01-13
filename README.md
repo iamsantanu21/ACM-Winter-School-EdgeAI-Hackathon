@@ -19,20 +19,13 @@ The system continuously senses the environment, detects obstacles and falls, and
 
 ## 🎥 Live Demo
 
-<!-- <p align="center">
- https://github.com/iamsantanu21/ACM-Winter-School-EdgeAI-Hackathon/blob/master/assets/demo-video/demo%20video.mp4
-    <img src="assets/demo-video/thumbnail.png" alt="Third Eye Demo Video" width="100%">
-  </a>
-</p>
-
-▶️ Click the image to watch the real-time demo of the wearable assistive system in action.
 <p align="center">
   <a href="https://youtu.be/Ljr1aza-Wbo">
     <img src="assets/demo-video/thumbnail.png" width="85%">
   </a>
 </p>
 
-▶️ Click to watch the demo -->
+▶️ Click the image to watch the real-time demo of the wearable assistive system in action. 
 
 ---
 
