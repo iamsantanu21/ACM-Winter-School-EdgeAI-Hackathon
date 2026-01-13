@@ -60,6 +60,7 @@ Safety-critical decisions such as obstacle avoidance and fall detection are driv
 <p align="center">
   <img src="assets/screenshots/Hardware Used.png" width="85%" alt="Hardware Used">
 </p>
+
 ---
 
 ## 🏗️ System Architecture
