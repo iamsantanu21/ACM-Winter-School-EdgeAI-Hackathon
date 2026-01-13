@@ -198,10 +198,10 @@ The main challenge was not building individual components, but making them work 
 
 This project was developed collaboratively during the IISc Hackathon (Winter School on Edge AI).
 
-[Santanu Mondal](https://www.linkedin.com/in/iamsantanu21/)
-[Aritra Dutta](https://www.linkedin.com/in/aritra-dutta-bb988a190/)
-[Avishka Jindal](https://www.linkedin.com/in/avishkajindal05/)
-[Arya Sahu](https://www.linkedin.com/in/arya-sahu-237701242/)
+[Santanu Mondal](https://www.linkedin.com/in/iamsantanu21/), 
+[Aritra Dutta](https://www.linkedin.com/in/aritra-dutta-bb988a190/), 
+[Avishka Jindal](https://www.linkedin.com/in/avishkajindal05/), 
+[Arya Sahu](https://www.linkedin.com/in/arya-sahu-237701242/), 
 [Shyamashri Das](https://www.linkedin.com/in/shyamashri-das-5a29b3188/)
 
 
