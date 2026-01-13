@@ -17,6 +17,19 @@ The system continuously senses the environment, detects obstacles and falls, and
 
 ---
 
+## 🎥 Live Demo
+
+<p align="center">
+  <a href="https://YOUR_DEMO_VIDEO_LINK">
+    <img src="assets/demo-video/thumbnail.png" alt="Third Eye Demo Video" width="100%">
+  </a>
+</p>
+
+▶️ Click the image to watch the real-time demo of the wearable assistive system in action.
+
+---
+
+
 ## ✨ Key Features
 
 - Physics-based obstacle detection using Time-of-Flight (ToF) sensing  
