@@ -17,7 +17,7 @@ The system continuously senses the environment, detects obstacles and falls, and
 
 ---
 
-## 🎥 Live Demo
+## 🎥 Live Video Demo
 
 <p align="center">
   <a href="https://youtu.be/Ljr1aza-Wbo">
@@ -25,7 +25,7 @@ The system continuously senses the environment, detects obstacles and falls, and
   </a>
 </p>
 
-  ▶️ Click the image to watch the real-time demo of the wearable assistive system in action. 
+  ▶️ Click the image to watch the real-time video demo of the wearable assistive system in action. 
 
 ---
 ## ✨ Key Features
