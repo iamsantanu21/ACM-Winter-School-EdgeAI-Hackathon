@@ -59,7 +59,9 @@ Safety-critical decisions such as obstacle avoidance and fall detection are driv
   - Wi-Fi + BLE  
 
 - Mobile phone / Laptop (receiver UI)
-
+<p align="center">
+  <img src="assets/screenshots/Hardware Used.png" width="85%" alt="Hardware Used">
+</p>
 ---
 
 ## 🏗️ System Architecture
@@ -76,6 +78,9 @@ Mobile / Web UI (audio alerts + graphs)
 
 Every ~50 ms, sensors are sampled.  
 Every ~250–1200 ms, decisions are transmitted wirelessly.
+<p align="center">
+  <img src="assets/screenshots/System Architecture.png" width="85%" alt="System Architecture">
+</p>
 
 ---
 
@@ -113,7 +118,9 @@ Once detected, a fall alert persists for several seconds to ensure reliable noti
 - Configurable IP and port settings  
 
 UI implemented using Flutter (mobile) and Streamlit (web).
-
+<p align="center">
+  <img src="assets/screenshots/UI.png" width="85%" alt="UI">
+</p>
 ---
 
 ## 📊 Edge AI Optimization
