@@ -3,6 +3,9 @@
 A fully on-device assistive navigation system that fuses physics-based sensing with edge AI to deliver reliable, real-time guidance for visually impaired users.
 
 ---
+<p align="center">
+  <img src="assets/screenshots/title.png" width="85%" alt="System Architecture">
+</p>
 
 ## 📌 Overview
 
