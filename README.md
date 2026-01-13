@@ -193,10 +193,11 @@ The main challenge was not building individual components, but making them work 
 ## 👥 Team
 
 <p align="center">
-  <img src="assets/screenshots/hackathon_group.jpg" width="70%" alt="Third Eye Hackathon Team">
+  <img src="assets/screenshots/hackathon_group.jpg" width="100%" alt="Third Eye Hackathon Team">
 </p>
 
 This project was developed collaboratively during the IISc Hackathon (Winter School on Edge AI). 
+
 By - [Santanu Mondal](https://www.linkedin.com/in/iamsantanu21/), 
 [Aritra Dutta](https://www.linkedin.com/in/aritra-dutta-bb988a190/), 
 [Avishka Jindal](https://www.linkedin.com/in/avishkajindal05/), 
